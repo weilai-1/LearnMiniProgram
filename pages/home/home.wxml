@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">你好，小程序</text>
+<button size="mini">按钮</button>
+<image src="http://img5.imgtn.bdimg.com/it/u=3995619892,526367969&fm=26&gp=0.jpg" class="img"></image>
